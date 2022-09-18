@@ -5,7 +5,7 @@
   This command-line application will allow users to manage a company's employee database. The user will be able to view and manage the departments, roles, and employees in the company
 
   ## Video Recording
-  [WALK-THROUGH VIDEO]https://drive.google.com/drive/u/0/folders/1PTO-G1xw3tOVAiRDkG4HLcEekH2Wf4wD
+  [WALK-THROUGH VIDEO] https://drive.google.com/drive/u/0/folders/1PTO-G1xw3tOVAiRDkG4HLcEekH2Wf4wD
 
   ## Screenshot
   ![](./assets/screenshot.png)
